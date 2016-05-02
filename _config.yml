@@ -1,7 +1,7 @@
 name: Tony Avantia
 favicon: null
-layout_spectrum: 0.7522941918577999
-typography_spectrum: 0.9700480971951038
+layout_spectrum: 0
+typography_spectrum: 0.66903
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.1543210055679083
+  brandStrength: 0.5
   lightness: 0.5146574380341917
-  saturation: 0.15379067487083375
+  saturation: 0.875
   rhythmicContrast: 0.7603067841846496
 purpose: []
